@@ -7,6 +7,7 @@
   <meta name="keywords" content="">
   <meta name="description" content="">
   <meta name="google-site-verification" content="" />
+  <body class="body" style="background-color: black;">
 
       <link rel="shortcut icon" type="image/ico" href="https://cdn.mypanel.link/ahnerj/c1gcautngkmkjzhq.ico" />
     <link rel="icon" type="image/png" sizes="192x192" href="https://cdn.mypanel.link/ahnerj/c1gcautngkmkjzhq.ico" />
@@ -32,12 +33,15 @@
   gtag('config', 'G-55XYV3KBYF');
 </script>
 
+
 <script src="//code.tidio.co/yxe9fxxr1wco1ostubvjbxm05slry3qx.js" async></script>
 
       <link rel="stylesheet" type="text/css" href="https://cdn.mypanel.link/global/59dupjt83nbtjuma.css">
       <link rel="stylesheet" type="text/css" href="https://cdn.mypanel.link/ahnerj/6mob1spqwidjblnt.css">
   </head>
+
 <body class="body ">
+    
 <div class="wrapper  wrapper-sidebar-navbar ">
    <div id="block_52" class="component_private_navbar">
     <span class="component_private_navbar ">
@@ -48,8 +52,10 @@
                   <div class="navbar-private__header">
                     <div class="sidebar-block__top-brand">
                                           <div class="component-navbar-brand component-navbar-public-brand">
-                                                  <h3><strong style="font-weight: bold">👑</strong><span style="color: #ffffff"><strong style="font-weight: bold">PIRATA</strong></span></h3>
+                                                  <h3><strong style="font-weight: bold">👑</strong><span style="color: #fffb00"><strong style="font-weight: bold">PIRATA</strong></span></h3>
+                                                  
                                               </div>
+                                              
                                                             </div>
                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapse-52" aria-controls="navbar-collapse-52" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-burger">
@@ -78,7 +84,7 @@
            <div class="component-sidebar__menu">
             <div class="component-sidebar__menu-logo">
                                               <div class="component-navbar-brand component-sidebar__menu-brand">
-                                      <h3><strong style="font-weight: bold">👑</strong><span style="color: #ffffff"><strong style="font-weight: bold">PIRATA</strong></span></h3>
+                                      <h3><strong style="font-weight: bold">👑</strong><span style="color: #b4f502"><strong style="font-weight: bold">PIRATA OFC</strong></span></h3>
                                   </div>
                           </div>
             <ul class="sidebar-block__left-menu editor__component-wrapper">
