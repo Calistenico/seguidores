@@ -1,4 +1,4 @@
-<html id="theme_23" lang="bp">
+                                              <html id="theme_23" lang="bp">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -52,7 +52,7 @@
                   <div class="navbar-private__header">
                     <div class="sidebar-block__top-brand">
                                           <div class="component-navbar-brand component-navbar-public-brand">
-                                                  <h3><strong style="font-weight: bold">👑</strong><span style="color: #fffb00"><strong style="font-weight: bold">PIRATA</strong></span></h3>
+                                                  <h3><strong style="font-weight: bold">👑</strong><span style="color: #e5ff00"><strong style="font-weight: bold">PIRATA</strong></span></h3>
                                                   
                                               </div>
                                               
@@ -84,7 +84,7 @@
            <div class="component-sidebar__menu">
             <div class="component-sidebar__menu-logo">
                                               <div class="component-navbar-brand component-sidebar__menu-brand">
-                                      <h3><strong style="font-weight: bold">👑</strong><span style="color: #b4f502"><strong style="font-weight: bold">PIRATA OFC</strong></span></h3>
+                                      <h3><strong style="font-weight: bold">👑</strong><span style="color: #ffffff"><strong style="font-weight: bold">PIRATA</strong></span></h3>
                                   </div>
                           </div>
             <ul class="sidebar-block__left-menu editor__component-wrapper">
